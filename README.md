@@ -6,7 +6,8 @@
 
 ## Iniciando o projeto
 
-* Clonar esse repo `git clone https://github.com/aceleradora-TW/dojo-tdd.git`
-* Criar `package.json` usando `yarn init`
-* Adicionar deps para testes `yarn add mocha chai --dev`
-* GET A LIFE!
+* Clonar esse repo: `$ git clone https://github.com/aceleradora-TW/dojo-tdd.git`
+* Criar `package.json` usando: `$ yarn init`
+* Adicionar deps para testes: `$ yarn add mocha chai --dev`
+* Adicionar script de teste para rodar os testes com `mocha`
+* GET A LIFE! :trollface:
