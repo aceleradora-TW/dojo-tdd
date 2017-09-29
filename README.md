@@ -11,3 +11,8 @@
 * Adicionar deps para testes: `$ yarn add mocha chai --dev`
 * Adicionar script de teste para rodar os testes com `mocha`
 * GET A LIFE! :trollface:
+
+
+`ODEIO ESSA PORRA BRANCA`
+
+LUIZ
